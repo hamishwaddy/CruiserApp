@@ -2,7 +2,7 @@
             <footer class="footer">
                 <div class="line"></div>
                     <div class="footer-content">
-                        <p >&copy Cruiser App 2019
+                        <p>&copy Cruiser App 2019
                             </br> Tauranga Moana, Aotearoa
                         </p>
                     </div>

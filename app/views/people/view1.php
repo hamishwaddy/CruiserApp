@@ -1,3 +1,5 @@
+<?php include(APPROOT . "/views/includes/header.php"); ?>
+
 <?php
 
     echo '<h1>'.$data['title'].'</h1>';
@@ -11,3 +13,6 @@ foreach($data['allPages'] as $page) {
 }
 
 echo $output;
+?>
+
+<?php include(APPROOT . "/views/includes/footer.php"); ?>
