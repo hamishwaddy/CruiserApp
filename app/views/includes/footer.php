@@ -1,5 +1,4 @@
-            <div class="row">
-            <footer class="footer">
+            <footer class="footer text-center">
                 <div class="line"></div>
                     <div class="footer-content">
                         <p>&copy Cruiser App 2019
